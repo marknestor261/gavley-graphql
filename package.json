@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "dotenv": "^16.0.3",
+    "graphql-yoga": "1.18.3",
+    "mongodb": "^4.13.0",
+    "pg": "^8.8.0"
+  }
+}
